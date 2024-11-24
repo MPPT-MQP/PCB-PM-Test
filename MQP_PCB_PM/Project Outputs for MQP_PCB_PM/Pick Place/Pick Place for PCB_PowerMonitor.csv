@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\temp\Documents\WPI\MQP\Github\MPPT_MQP_PCB_PM\MQP_PCB_PM\Project Outputs for MQP_PCB_PM\Pick Place\Pick Place for PCB_PowerMonitor.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/11/24
+Time:       11:30
+Revision:   f17209a447c7e35560f044691ede2c59cbabb02d
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J4","PPPC031LFBN-RC","TopLayer","CONN_PPPC031LFBN-RC_SUL","835.000","155.000","180","No Description Available"
+"J3","PPPC031LFBN-RC","TopLayer","CONN_PPPC031LFBN-RC_SUL","790.000","1220.000","0","No Description Available"
+"J2","691137710002","TopLayer","691137710002","1405.158","680.000","90",""
+"J1","691137710002","TopLayer","691137710002","159.843","680.000","270",""
+"R2","CRCW06034K70FKEA","TopLayer","FP-CRCW0603-e3-IPC_A","892.898","475.000","180","RES Thick Film, 4.7kO, 1%, 0.1W, 100ppm/°C, 0603"
+"R1","CRCW06034K70FKEA","TopLayer","FP-CRCW0603-e3-IPC_A","861.463","395.000","180","RES Thick Film, 4.7kO, 1%, 0.1W, 100ppm/°C, 0603"
+"R3","AC0603FR-071KL","TopLayer","FP-AC0603-IPC_B","805.000","1040.000","90","RES 1kO 1.00% 0.1W 0603"
+"PINA1","PINA740BIREMR","TopLayer","VQFN14_REM_TEX","785.000","680.000","90","No Description Available"
+"C1","CC0402KRX7R7BB104","TopLayer","FP-CC0402-MFG","725.000","940.001","90","CAP CER 0.1UF 16V X7R 0402"
